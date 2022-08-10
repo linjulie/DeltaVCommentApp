@@ -1,0 +1,11 @@
+C:\Users\Emerson\source\repos\DeltaVCommentApp\DeltaVCommentApp\bin\Debug\DeltaVCommentApp.exe.config
+C:\Users\Emerson\source\repos\DeltaVCommentApp\DeltaVCommentApp\bin\Debug\DeltaVCommentApp.exe
+C:\Users\Emerson\source\repos\DeltaVCommentApp\DeltaVCommentApp\bin\Debug\DeltaVCommentApp.pdb
+C:\Users\Emerson\source\repos\DeltaVCommentApp\DeltaVCommentApp\obj\Debug\DeltaVCommentApp.csproj.AssemblyReference.cache
+C:\Users\Emerson\source\repos\DeltaVCommentApp\DeltaVCommentApp\obj\Debug\DeltaVCommentApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emerson\source\repos\DeltaVCommentApp\DeltaVCommentApp\obj\Debug\DeltaVCommentApp.CommentManager.resources
+C:\Users\Emerson\source\repos\DeltaVCommentApp\DeltaVCommentApp\obj\Debug\DeltaVCommentApp.Properties.Resources.resources
+C:\Users\Emerson\source\repos\DeltaVCommentApp\DeltaVCommentApp\obj\Debug\DeltaVCommentApp.csproj.GenerateResource.cache
+C:\Users\Emerson\source\repos\DeltaVCommentApp\DeltaVCommentApp\obj\Debug\DeltaVCommentApp.csproj.CoreCompileInputs.cache
+C:\Users\Emerson\source\repos\DeltaVCommentApp\DeltaVCommentApp\obj\Debug\DeltaVCommentApp.exe
+C:\Users\Emerson\source\repos\DeltaVCommentApp\DeltaVCommentApp\obj\Debug\DeltaVCommentApp.pdb
